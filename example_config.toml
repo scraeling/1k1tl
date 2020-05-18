@@ -1,0 +1,7 @@
+# Rename this file to config.toml and update the configuration before running the bot.
+token = "38iyr94t34qouty3otu347t8o47tr738o34tg8q3vg4t8o3gq8v"
+prefix = "!"
+invite = "https://discordapp.com/oauth2/authorize?client_id=something&permissions=something"
+channels = ["music"]
+watch = ['Rhythm#8241']
+admins = ["James#0007"]
