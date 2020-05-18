@@ -1,6 +1,7 @@
 # 1k1tl
 
 A tracklisting bot for discord music bots.
+![Screenshot](https://i.imgur.com/4jsygnv.png)
 
 ## Setup
 - Copy `example_config.toml` to `config.toml`.
